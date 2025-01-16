@@ -93,11 +93,11 @@ Certifique-se de ter instalado:
 
 ### Resumo Financeiro
 
-![Resumo Financeiro](https://prnt.sc/kEcmIb8I5qNF)
+![Resumo Financeiro](https://i.postimg.cc/7YqWZHCd/dash-1.png)
 
 ### Gráfico de Movimentações
 
-![Gráfico de Movimentações](https://prnt.sc/LxaT3kXj5RBB)
+![Gráfico de Movimentações](https://i.postimg.cc/Y9cXKMKX/dash-2.png)
 
 ---
 
